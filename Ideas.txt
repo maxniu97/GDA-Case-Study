@@ -1,4 +1,0 @@
-locations -> ads deployment locations -> numbers of rides by non-member
-time -> how offten do they ride on which season on averge to determine when to deploy ads->season -> month > time of date
-durations -> longer rides mean healthier life style.
-tage? maybe
